@@ -1,14 +1,12 @@
-# My Collection
-
-## Python
+# Python
 
 - https://github.com/vinta/awesome-python
 
-### Dot Dict Access
+## Dot Dict Access
 - http://stackoverflow.com/questions/1338714/accesing-dictionary-with-class-attribute
 - https://github.com/cdgriffith/Box
 
-### HTML Generator
+## HTML Generator
 - https://github.com/Knio/dominate
 - http://www.livinglogic.de/Python/xist/ --> https://github.com/LivingLogic/LivingLogic.Python.xist
 - http://www.linuxjournal.com/article/2986
@@ -21,4 +19,16 @@
 - https://gist.github.com/kstep/3516334
 - https://github.com/tavisrudd/throw_out_your_templates
 
+## Form Generation
+- http://pythoncentral.io/how-to-use-python-django-forms/
+- http://docs.pylonsproject.org/projects/deform/en/latest/
+- https://github.com/ish/formish
+- http://wtforms.readthedocs.io/en/latest/
+- http://webpy.org/form
+- https://github.com/tryexceptpass/sofi
+* https://github.com/zoofIO/flexx
+* https://github.com/joshfire/jsonform
+
+ 
+# Web
 ## Admin Templates
