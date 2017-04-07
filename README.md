@@ -26,8 +26,8 @@
 - http://wtforms.readthedocs.io/en/latest/
 - http://webpy.org/form
 - https://github.com/tryexceptpass/sofi
-* https://github.com/zoofIO/flexx
-* https://github.com/joshfire/jsonform
+- https://github.com/zoofIO/flexx
+- https://github.com/joshfire/jsonform
 
  
 # Web
