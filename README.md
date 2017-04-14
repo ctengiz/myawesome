@@ -5,7 +5,6 @@
 ## Dot Dict Access
 - http://stackoverflow.com/questions/1338714/accesing-dictionary-with-class-attribute
 - http://stackoverflow.com/questions/1305532/convert-python-dict-to-object
-
 - https://github.com/cdgriffith/Box
 - https://github.com/Infinidat/munch
 - https://github.com/makinacorpus/easydict
