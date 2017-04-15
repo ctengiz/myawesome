@@ -6,6 +6,4 @@
 - https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 - https://github.com/secondtruth/startmin
 - https://github.com/pratikborsadiya/vali-admin
-
-
 - https://github.com/FrontendMatter/bootstrap-layout
