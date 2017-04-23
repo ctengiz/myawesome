@@ -41,6 +41,11 @@
 ## Enumeration
 - http://stackoverflow.com/questions/36932/how-can-i-represent-an-enum-in-python
 
+## JSON Serialize Datetime
+
+- http://stackoverflow.com/questions/11875770/how-to-overcome-datetime-datetime-not-json-serializable-in-python
+- Use simplejson
+
 ## Tips
 - [Removing duplicates from a list in whilst preserving order?](http://stackoverflow.com/questions/480214/how-do-you-remove-duplicates-from-a-list-in-whilst-preserving-order)
   - http://stackoverflow.com/a/39835527
