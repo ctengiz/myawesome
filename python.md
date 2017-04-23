@@ -38,6 +38,9 @@
 ## Mutable Named Tuple
 - http://stackoverflow.com/questions/29290359/existence-of-mutable-named-tuple-in-python
 
+## Enumeration
+- http://stackoverflow.com/questions/36932/how-can-i-represent-an-enum-in-python
+
 ## Tips
 - [Removing duplicates from a list in whilst preserving order?](http://stackoverflow.com/questions/480214/how-do-you-remove-duplicates-from-a-list-in-whilst-preserving-order)
   - http://stackoverflow.com/a/39835527
