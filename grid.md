@@ -7,6 +7,11 @@
 - https://github.com/wootapa/watable
 - https://github.com/DataTables/DataTables
 - https://github.com/Mottie/tablesorter
+- https://github.com/wenzhixin/bootstrap-table
+- https://github.com/filamentgroup/tablesaw
+- https://github.com/tonytomov/jqGrid
+- https://github.com/fooplugins/FooTable
+- https://github.com/datazenit/sensei-grid
 
 # Pivot
 - https://github.com/davidguttman/react-pivot
@@ -15,6 +20,7 @@
 - https://github.com/ukman/pivot
 - https://github.com/uniclau/jbPivot
 - https://github.com/janusschmidt/jquery.pivot
+- https://github.com/rwjblue/pivot.js
 
 
 # Export
