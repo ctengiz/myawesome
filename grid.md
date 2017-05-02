@@ -12,6 +12,8 @@
 - https://github.com/tonytomov/jqGrid
 - https://github.com/fooplugins/FooTable
 - https://github.com/datazenit/sensei-grid
+- https://github.com/cloudflare/backgrid
+- https://github.com/tabalinas/jsgrid
 
 # Pivot
 - https://github.com/davidguttman/react-pivot
@@ -33,5 +35,6 @@
 - https://github.com/jonmiles/bootstrap-treeview
 - https://github.com/ludo/jquery-treetable
 - https://github.com/mbraak/jqTree
+- https://github.com/mar10/fancytree
 
 
