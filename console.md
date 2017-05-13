@@ -15,5 +15,5 @@
 
 #### Nmap
 
-Sacn alive hosts
-`nmap -sP 192.168.2.1/24`
+Scan alive hosts
+`nmap -sP 172.16.0.0/24`
