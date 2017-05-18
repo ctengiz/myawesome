@@ -31,6 +31,7 @@
 - https://github.com/jmaister/excellentexport
 
 # Tree
+- https://github.com/mar10/fancytree
 - https://github.com/maxazan/jquery-treegrid
 - https://github.com/jonmiles/bootstrap-treeview
 - https://github.com/ludo/jquery-treetable
