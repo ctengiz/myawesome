@@ -1,6 +1,7 @@
 
 ### NLP
 
+- http://www.nltk.org/
 - https://github.com/shaildeliwala/delbot
 - https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
 - https://spacy.io/
@@ -27,6 +28,8 @@
 
 - https://github.com/Uberi/speech_recognition
 - https://cmusphinx.github.io/wiki/
+- https://github.com/zbears/pyvona
+- https://github.com/jaraco/wolframalpha
 
 ### ML
 - https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c
@@ -47,3 +50,7 @@
 - https://www.quora.com/How-do-I-learn-machine-learning-1
 - https://thebayesianobserver.wordpress.com/2012/02/24/machine-learning-and-programming-languages/
 - http://multithreaded.stitchfix.com/blog/2015/12/09/intro-to-chainer/?utm_source=Python+Weekly+Newsletter&utm_campaign=90b2ae57fb-Python_Weekly_Issue_221_December_10_2015&utm_medium=email&utm_term=0_9e26887fc5-90b2ae57fb-305734041
+
+
+### Bilgi 
+- https://github.com/goldsmith/Wikipedia
