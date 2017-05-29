@@ -45,7 +45,7 @@
 - https://pt.slideshare.net/botego/natural-language-processing-nlp-in-turkish
 - https://books.google.com.tr/books?id=JQEICAAAQBAJ&pg=PA201&lpg=PA201&dq=natural+language+processing+turkish&source=bl&ots=D8MYet_1cg&sig=egOekWuqbStvqXupGnA_rGdix_A&hl=tr&sa=X&redir_esc=y#v=onepage&q=natural%20language%20processing%20turkish&f=false
 - https://www.cmpe.boun.edu.tr/~gungort/undergraduateprojects/Developing%20a%20Natural%20Language%20Processing%20Application%20Using%20Game%20Playing%20Techniques.pdf
-- 
+- https://www.andrew.cmu.edu/user/ko/downloads/lrec.pdf
 
 ### Speech Recognition
 
