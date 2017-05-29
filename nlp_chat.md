@@ -79,6 +79,7 @@
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://github.com/pfnet/chainer
 - https://github.com/kendricktan/suiron
+- https://www.andrew.cmu.edu/user/ko/theses.html
 
 ### ML - Python
 
