@@ -2,18 +2,12 @@
 ### NLP
 
 - http://www.nltk.org/
- - https://stackoverflow.com/questions/35928459/what-is-the-best-practice-for-natural-language-processing-multi-lingual-text-wit
- - http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
- - https://github.com/nltk/nltk/issues/901
-- https://github.com/shaildeliwala/delbot
-- https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
+- https://stackoverflow.com/questions/35928459/what-is-the-best-practice-for-natural-language-processing-multi-lingual-text-wit
+- http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
+- https://github.com/nltk/nltk/issues/901
 - https://spacy.io/
 - http://textblob.readthedocs.io/en/dev/
 - http://ml.nec-labs.com/senna/
-- https://fazlamesai.net/posts/chat-arkadasim-bir-bilgisayar-mi
-- http://www.devdungeon.com/content/ai-chat-bot-python-aiml
- - https://keiffster.github.io/program-y/
- - http://www.alicebot.org/aiml/aaa/
 - http://www.nltk.org/book/ch10.html
 - https://impythonist.wordpress.com/2015/12/06/building-a-virtual-personal-assistant-with-telegram-app-and-telepot/?utm_source=Python+Weekly+Newsletter&utm_campaign=90b2ae57fb-Python_Weekly_Issue_221_December_10_2015&utm_medium=email&utm_term=0_9e26887fc5-90b2ae57fb-305734041
  
@@ -24,7 +18,7 @@
 - http://ab.org.tr/ab09/bildiri/27.pdf
 - https://github.com/ahmetaa/zemberek-nlp
 - http://hunspell.github.io/
- - https://code.google.com/archive/p/tr-spell/
+  - https://code.google.com/archive/p/tr-spell/
 - https://www.cmpe.boun.edu.tr/~say/
 - http://tools.nlp.itu.edu.tr/
 - http://www.aclweb.org/anthology/C04-1203
@@ -33,7 +27,7 @@
 - http://www.aliok.com.tr/projects/2014-10-02-trnltk.html
 - https://www.researchgate.net/publication/263083060_Turkish_and_its_Challenges_for_Natural_Language_Processing
 - http://www.adalı.net/wp-content/uploads/2012/10/Do%C4%9Fal-Dil-%C4%B0%C5%9Fleme.pdf
- - http://www.adalı.net/
+  - http://www.adalı.net/
 - https://hikomen.wordpress.com/2013/05/21/turkce-dogal-dil-isleme-calismalari-derlemi-universiteler/
 - https://fazlamesai.net/posts/turkce-icin-dogal-dil-isleme-calismalari
 - http://bilgisayarkavramlari.sadievrenseker.com/category/dogal-dil-isleme-nlp/
@@ -53,6 +47,16 @@
 - https://cmusphinx.github.io/wiki/
 - https://github.com/zbears/pyvona
 - http://tcts.fpms.ac.be/synthesis/
+
+
+### Chat
+- https://github.com/shaildeliwala/delbot
+- https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077  
+- http://www.alicebot.org/aiml/aaa/
+  - https://keiffster.github.io/program-y/
+  - http://www.devdungeon.com/content/ai-chat-bot-python-aiml
+  - https://fazlamesai.net/posts/chat-arkadasim-bir-bilgisayar-mi
+
 
 ### ML
 - http://www.asimovinstitute.org/neural-network-zoo/
