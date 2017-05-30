@@ -1,5 +1,6 @@
 ### STT
 - http://blog.neospeech.com/top-5-open-source-speech-recognition-toolkits/
+- https://github.com/kaldi-asr/kaldi
 
 ## TTS
 - https://www.quora.com/What-are-the-best-open-source-text-to-speech-technologies
