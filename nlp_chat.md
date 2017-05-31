@@ -10,6 +10,7 @@
 - http://ml.nec-labs.com/senna/
 - http://www.nltk.org/book/ch10.html
 - https://impythonist.wordpress.com/2015/12/06/building-a-virtual-personal-assistant-with-telegram-app-and-telepot/?utm_source=Python+Weekly+Newsletter&utm_campaign=90b2ae57fb-Python_Weekly_Issue_221_December_10_2015&utm_medium=email&utm_term=0_9e26887fc5-90b2ae57fb-305734041
+- https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
  
 
 ### NLP - Tr
