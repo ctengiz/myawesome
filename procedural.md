@@ -4,6 +4,7 @@
 - https://stackoverflow.com/questions/155069/how-does-one-get-started-with-procedural-generation
 - https://www.reddit.com/r/gamedev/comments/1dlwc4/procedural_dungeon_generation_algorithm_explained/
   - http://www.gamasutra.com/blogs/AAdonaac/20150903/252889/Procedural_Dungeon_Generation_Algorithm.php
+  - https://github.com/piotr-j/dungen
 - http://piotrjastrzebski.io/dungen/dungen/
 - http://david.fancyfishgames.com/2016/08/procedurally-assisted-generation.html
 - http://www.ultimaratioregum.co.uk/game/2015/03/14/procedural-altar-generation/
