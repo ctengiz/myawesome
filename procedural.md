@@ -19,12 +19,30 @@
 - http://tinysubversions.com/spelunkyGen/
 - https://www.reddit.com/r/gamedev/comments/68aa07/make_random_dungeons_interesting/
 - https://www.reddit.com/r/gamedev/comments/69epvj/the_theory_behind_beautiful_procedural_2d_worlds/
+- https://gamedev.stackexchange.com/questions/79049/generating-tile-map
+- https://experilous.com/1/blog/post/procedural-planet-generation
+- https://stackoverflow.com/questions/11968167/random-2d-tile-map-generating-algorithm
+- http://www.gamasutra.com/view/feature/3098/a_realtime_procedural_universe_.php
+- https://gillesleblanc.wordpress.com/2012/10/16/creating-a-random-2d-game-world-map/
+- http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+- https://www.reddit.com/r/proceduralgeneration/comments/6daz6n/where_to_start_learning/
 
 ### Sample Code
 - https://github.com/Mizipzor/roguelike-dungeon-generator
 - https://github.com/Dozed12/df-style-worldgen
 - https://jonnoftw.github.io/2017/01/18/markov-chain-image-generation
+- https://gamedevelopment.tutsplus.com/tutorials/create-a-procedurally-generated-dungeon-cave-system--gamedev-10099
+- https://www.raywenderlich.com/49502/procedural-level-generation-in-games-tutorial-part-1
 
 ### Engine / Maker
 - https://github.com/ericoporto/fgmk
 - http://superpowers-html5.com/index.en.html
+
+### Maze / CA
+- http://www.roguebasin.com/index.php?title=Cellular_Automata_Method_for_Generating_Random_Cave-Like_Levels
+- https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
+- http://pixelenvy.ca/wa/ca_cave.html
+- http://noelberry.ca/#thecaves
+
+### RPG
+- http://donjon.bin.sh/
