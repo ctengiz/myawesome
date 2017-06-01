@@ -7,4 +7,3 @@
 - https://github.com/secondtruth/startmin
 - https://github.com/pratikborsadiya/vali-admin
 - https://github.com/FrontendMatter/bootstrap-layout
-- https://github.com/puikinsh/gentelella
