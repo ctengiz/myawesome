@@ -17,3 +17,9 @@
 
 Scan alive hosts
 `nmap -sP 172.16.0.0/24`
+
+
+### Tips
+
+Temp fix for sudo graphical application error
+`xhost +`
