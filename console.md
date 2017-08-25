@@ -23,3 +23,6 @@ Scan alive hosts
 
 Temp fix for sudo graphical application error
 `xhost +`
+
+Send process to background
+`python program.py > /dev/null 2>&1 & disown`
