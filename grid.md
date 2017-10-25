@@ -14,15 +14,19 @@
 - https://github.com/datazenit/sensei-grid
 - https://github.com/cloudflare/backgrid
 - https://github.com/tabalinas/jsgrid
+- https://github.com/paulhodel/jexcel
 
 # Pivot
 - https://github.com/davidguttman/react-pivot
 - https://github.com/nnajm/orb
+- https://github.com/davidpelayo/orb-latest
 - https://github.com/nicolaskruchten/pivottable
+- https://github.com/fbrussa/NovixPivotJS
 - https://github.com/ukman/pivot
 - https://github.com/uniclau/jbPivot
 - https://github.com/janusschmidt/jquery.pivot
 - https://github.com/rwjblue/pivot.js
+
 
 
 # Export
