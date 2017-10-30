@@ -7,3 +7,7 @@
 - http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 
 - http://kangax.github.io/nfe/
+
+
+- https://github.com/mjavascript/practical-modern-javascript
+- https://github.com/getify/You-Dont-Know-JS
